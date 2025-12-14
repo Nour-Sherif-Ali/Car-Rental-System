@@ -1,0 +1,14 @@
+﻿[
+    {
+        "FullName": "Admin User",
+        "Email": "admin@carrental.com",
+        "PasswordHash": "Admin123!",
+        "Role": "Admin"
+    },
+    {
+        "FullName": "John Doe",
+        "Email": "user@carrental.com",
+        "PasswordHash": "User123!",
+        "Role": "User"
+    }
+]

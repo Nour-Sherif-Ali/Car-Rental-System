@@ -1,0 +1,100 @@
+﻿[
+    {
+        "Name": "A4",
+        "Brand": "Audi",
+        "PricePerDay": 100,
+        "Available": true,
+        "ImageUrl": "/Images/cars/audi_a4.jpg"
+    },
+    {
+        "Name": "X3",
+        "Brand": "BMW",
+        "PricePerDay": 140,
+        "Available": true,
+        "ImageUrl": "/Images/cars/bmw_x3.jpg"
+    },
+    {
+        "Name": "X5",
+        "Brand": "BMW",
+        "PricePerDay": 150,
+        "Available": true,
+        "ImageUrl": "/Images/cars/bmw_x5.jpg"
+    },
+    {
+        "Name": "Explorer 2025",
+        "Brand": "Ford",
+        "PricePerDay": 120,
+        "Available": true,
+        "ImageUrl": "/Images/cars/ford_explorer2025.jpg"
+    },
+    {
+        "Name": "Mustang GT",
+        "Brand": "Ford",
+        "PricePerDay": 160,
+        "Available": true,
+        "ImageUrl": "/Images/cars/ford_mustang_gt.jpg"
+    },
+    {
+        "Name": "Accord 2022",
+        "Brand": "Honda",
+        "PricePerDay": 90,
+        "Available": true,
+        "ImageUrl": "/Images/cars/honda_accord2022.jpg"
+    },
+    {
+        "Name": "Civic 2021",
+        "Brand": "Honda",
+        "PricePerDay": 55,
+        "Available": true,
+        "ImageUrl": "/Images/cars/honda_civic2021.jpg"
+    },
+    {
+        "Name": "Altima",
+        "Brand": "Nissan",
+        "PricePerDay": 80,
+        "Available": true,
+        "ImageUrl": "/Images/cars/nissan_altima.jpg"
+    },
+    {
+        "Name": "Sentra 2026",
+        "Brand": "Nissan",
+        "PricePerDay": 75,
+        "Available": true,
+        "ImageUrl": "/Images/cars/nissan_sentra2026.jpg"
+    },
+    {
+        "Name": "Model 3",
+        "Brand": "Tesla",
+        "PricePerDay": 120,
+        "Available": true,
+        "ImageUrl": "/Images/cars/tesla_model3.jpg"
+    },
+    {
+        "Name": "Model 5",
+        "Brand": "Tesla",
+        "PricePerDay": 150,
+        "Available": true,
+        "ImageUrl": "/Images/cars/tesla_model5.jpg"
+    },
+    {
+        "Name": "Camry 2022",
+        "Brand": "Toyota",
+        "PricePerDay": 70,
+        "Available": true,
+        "ImageUrl": "/Images/cars/toyota_camry2022.jpg"
+    },
+    {
+        "Name": "Corolla 2022",
+        "Brand": "Toyota",
+        "PricePerDay": 50,
+        "Available": true,
+        "ImageUrl": "/Images/cars/toyota_corolla2022.jpg"
+    },
+    {
+        "Name": "CX-5",
+        "Brand": "Mazda",
+        "PricePerDay": 85,
+        "Available": true,
+        "ImageUrl": "/Images/cars/mazda_cx5.jpg"
+    }
+]
